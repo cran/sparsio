@@ -1,0 +1,13 @@
+862c163249b27755e4d4e677ca39bd8d *DESCRIPTION
+7383eca091ac817c1a9577f3bf33b325 *LICENSE
+a2a7cc62db11eb04caedb9fa888a7be9 *NAMESPACE
+e812b1c77e8f9590d24594380d53b364 *R/RcppExports.R
+afc5f3a14f670965ce5e6d1efbcaa5db *R/sparsio.R
+2f5394c6e3a7d06e92f77eabe4026b2d *README.md
+ed066f7e2b735c225052958527440480 *man/svmlight.Rd
+bd8ed687a2826000019991cb0c1a1766 *src/RcppExports.cpp
+5935d320f4390bdd003a49309c08d37b *src/read_svmlight.cpp
+c9b6755cfc8c7a090ba1f152c8b94fa2 *src/write_svmlight.cpp
+a5bab6837a8acb5dfcb5b01e1785a83e *tests/testthat.R
+2ec3f4c81626892de05501309278840b *tests/testthat/test-read.R
+8fab7a45dc9e80e6aef063322b7a248a *tests/testthat/test.svmlight
