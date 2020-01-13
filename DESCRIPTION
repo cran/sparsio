@@ -1,8 +1,8 @@
 Package: sparsio
 Type: Package
 Title: I/O Operations with Sparse Matrices
-Version: 1.0.0
-Date: 2017-06-28
+Version: 1.0.1
+Date: 2020-01-13
 Authors@R: c(person("Dmitriy", "Selivanov", role = c("aut", "cre"),
     email = "selivanov.dmitriy@gmail.com"), 
     person("Felix", "Riedel", role = c("aut"),
@@ -20,10 +20,10 @@ LinkingTo: Rcpp
 Suggests: testthat
 URL: https://github.com/dselivanov/sparsio
 BugReports: https://github.com/dselivanov/sparsio/issues
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
 NeedsCompilation: yes
-Packaged: 2017-06-28 07:46:16 UTC; dselivanov
+Packaged: 2020-01-13 07:06:19 UTC; dselivanov
 Author: Dmitriy Selivanov [aut, cre],
   Felix Riedel [aut]
 Repository: CRAN
-Date/Publication: 2017-06-28 15:59:40 UTC
+Date/Publication: 2020-01-13 08:20:03 UTC
